@@ -38,7 +38,7 @@ var education = {
       "title": "Frontend Nanodegree",
       "school": "Udacity",
       "dates": "2016-2017",
-      "url": "www.udacity.com"
+      "url": "https://www.udacity.com/",
     },
   ]
 };
