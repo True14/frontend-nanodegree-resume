@@ -44,7 +44,7 @@ var projects = {
 			"dates": "2016",
 			"description": "Website featuring my work",
 			"images": ["images/website.jpg"],
-			"url": "#"
+			"url": "https://true14.github.io"
 		},
 		{
 			"title": "USCconnect",
